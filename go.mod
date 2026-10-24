@@ -132,3 +132,5 @@ require (
 )
 
 tool github.com/air-verse/air
+
+replace github.com/tronbyt/pixlet => github.com/ivanovart/pixlet v0.0.0-20261024072827-5c1a8f616e36

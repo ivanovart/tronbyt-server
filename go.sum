@@ -364,6 +364,8 @@ github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
+github.com/ivanovart/pixlet v0.0.0-20261024072827-5c1a8f616e36 h1:MouG4JPWQHjfexyUjsP96X+eKWe9TgHu50qaz+28bNE=
+github.com/ivanovart/pixlet v0.0.0-20261024072827-5c1a8f616e36/go.mod h1:d4pEaUsORC4SgFYx+i0WxlxxswCB5KsKmis3AL2de6Q=
 github.com/jackc/pgpassfile v1.0.0 h1:/6Hmqy13Ss2zCq62VdNG8tM1wchn8zjSGOBJ6icpsIM=
 github.com/jackc/pgpassfile v1.0.0/go.mod h1:CEx0iS5ambNFdcRtxPj5JhEz+xB6uRky5eyVu/W2HEg=
 github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 h1:iCEnooe7UlwOQYpKFhBabPMi4aNAfoODPEFNiAnClxo=
@@ -630,8 +632,6 @@ github.com/tronbyt/gg v0.0.0-20220808163829-95806fa1d427 h1:ZtI+sSJ6at2TpZXcxnUN
 github.com/tronbyt/gg v0.0.0-20220808163829-95806fa1d427/go.mod h1:wjdMaUjKINeop89o25+l/doQeDpzXNQdiGpnZxBRRkA=
 github.com/tronbyt/go-libwebp v0.0.0-20251221160926-0c04b4a7738a h1:GsqVqVRLtRM5vdwD5DsqHTclVDwRQkDhC8QydUZU3jA=
 github.com/tronbyt/go-libwebp v0.0.0-20251221160926-0c04b4a7738a/go.mod h1:xzARUhEkkrZhT+GKunLr4iyuv/x0VwWBlb1KJn0SMlo=
-github.com/tronbyt/pixlet v0.55.0 h1:Uws2eK/rDXdNBtYcM7tJK6D1SV/+v/4J3Mth0uhCHqw=
-github.com/tronbyt/pixlet v0.55.0/go.mod h1:d4pEaUsORC4SgFYx+i0WxlxxswCB5KsKmis3AL2de6Q=
 github.com/ugorji/go v1.1.4/go.mod h1:uQMGLiO92mf5W77hV/PUCpI3pbzQx3CRekS0kk+RGrc=
 github.com/vmihailenco/msgpack/v5 v5.4.1 h1:cQriyiUvjTwOHg8QZaPihLWeRAAVoCpE00IUPn0Bjt8=
 github.com/vmihailenco/msgpack/v5 v5.4.1/go.mod h1:GaZTsDaehaPpQVyxrf5mtQlH+pc21PIudVV/E3rRQok=
